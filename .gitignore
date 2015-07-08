@@ -1,0 +1,5 @@
+data/MAMMALS*
+data/TERRESTRIAL_MAMMALS*
+data/*.pdf
+*.data.R
+data/mcmc_out/*
